@@ -55,3 +55,5 @@ def predict(data: dict):
         ),
         "satisfaction_probability": round(float(probability), 4)
     }
+
+

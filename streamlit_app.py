@@ -117,3 +117,5 @@ if st.button("Prédire la satisfaction", type="primary"):
 
     except Exception as e:
         st.error(f"❌ Erreur inattendue : {e}")
+
+
